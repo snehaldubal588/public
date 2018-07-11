@@ -7,7 +7,7 @@ public class CustomerCare {
 
 	private int id;
 	private String name;
-	private String CustType;
+	private Custname CustType;
 	private String gender;
 	
 	
